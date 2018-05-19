@@ -5,9 +5,7 @@ Código fonte e links das nossas lives sobre Elixir.
 -----------
 
 ## Lives
-
-| Data  | Local          | Palestrante(s)            | Tema       | Horário | Link                                                  |
-|-------|----------------|---------------------------|------------|---------|-------------------------------------------------------|
-| 04/05 | Google Hangout | [@lucassouto](https://github.com/lucassouto)</br>[@mschonfinkel](https://github.com/mschonfinkel) | Introdução | 20:00   | [Live 0](https://www.youtube.com/watch?v=SbYpLtQ--w8) |
-|       |                |                           |            |         |                                                       |
-|       |                |                           |            |         |                                                       |
+| Data  | Local | Tema             | Horário | Link                                                  |
+|-------|-------|------------------|---------|-------------------------------------------------------|
+| 04/05 |       | Introdução       | 20:00   | [Live 0](https://www.youtube.com/watch?v=SbYpLtQ--w8) |
+| 19/05 |       | Pattern Matching | 19:30   | [Live 1](https://www.youtube.com/watch?v=rK5KFOM9ovQ) |        
